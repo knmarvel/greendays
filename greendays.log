@@ -48,3 +48,6 @@
 2021-09-25 15:00:49,446 - root - INFO - Starting up
 2021-09-25 15:00:49,447 - root - INFO - Begin long running program
 2021-09-25 15:00:52,450 - root - INFO - Oh I better log something
+2021-09-25 15:00:53,772 - root - INFO - Begin long running program
+2021-09-25 15:00:55,435 - root - INFO - Stopped by SIGINT
+2021-09-25 15:00:56,773 - root - INFO - Oh I better log something
