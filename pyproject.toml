@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "greendays"
+version = "0.1.0"
+description = "makes commits to github for you"
+authors = ["Kano Marvel <knmarvel@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+flake8 = "^3.9.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
