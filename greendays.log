@@ -1,0 +1,33 @@
+2021-09-25 12:13:26,750 - root - INFO - Starting up
+2021-09-25 12:13:26,750 - root - INFO - Stopping. Time elapsed: 0.00022864341735839844 seconds
+2021-09-25 12:21:22,643 - root - INFO - Starting up
+2021-09-25 12:21:22,643 - root - INFO - Stopping. Time elapsed: 0.00011467933654785156 seconds
+2021-09-25 12:21:37,538 - root - INFO - Starting up
+2021-09-25 12:21:37,538 - root - INFO - Stopping. Time elapsed: 0.00010585784912109375 seconds
+2021-09-25 12:23:27,493 - root - INFO - Starting up
+2021-09-25 12:23:27,493 - root - INFO - Stopping. Time elapsed: 0.00014209747314453125 seconds
+2021-09-25 12:23:49,099 - root - INFO - Starting up
+2021-09-25 12:23:49,099 - root - INFO - Stopping. Time elapsed: 0.00015306472778320312 seconds
+2021-09-25 12:23:58,659 - root - INFO - Starting up
+2021-09-25 12:23:58,659 - root - INFO - Stopping. Time elapsed: 0.00011181831359863281 seconds
+2021-09-25 12:24:02,056 - root - INFO - Starting up
+2021-09-25 12:24:02,056 - root - INFO - Stopping. Time elapsed: 0.00011396408081054688 seconds
+2021-09-25 12:24:47,860 - root - INFO - Starting up
+2021-09-25 12:24:47,861 - root - INFO - Stopping. Time elapsed: 0.00013828277587890625 seconds
+2021-09-25 12:25:55,617 - root - INFO - Starting up
+2021-09-25 12:25:55,617 - root - INFO - Stopping. Time elapsed: 0.00014710426330566406 seconds
+2021-09-25 13:00:16,409 - root - INFO - Starting up
+2021-09-25 13:00:16,409 - root - INFO - Begin long running program
+2021-09-25 13:02:50,068 - root - INFO - Starting up
+2021-09-25 13:02:50,068 - root - INFO - Begin long running program
+2021-09-25 13:03:15,960 - root - INFO - Stopped by SIGINT
+2021-09-25 13:03:20,893 - root - INFO - Stopped by SIGINT
+2021-09-25 13:03:21,691 - root - INFO - Stopped by SIGINT
+2021-09-25 13:03:22,064 - root - INFO - Stopped by SIGINT
+2021-09-25 13:03:22,393 - root - INFO - Stopped by SIGINT
+2021-09-25 13:04:38,853 - root - INFO - Starting up
+2021-09-25 13:04:38,853 - root - INFO - Begin long running program
+2021-09-25 13:05:00,773 - root - INFO - Stopped by SIGINT
+2021-09-25 14:51:22,333 - root - INFO - Starting up
+2021-09-25 14:51:22,334 - root - INFO - Begin long running program
+2021-09-25 14:51:25,337 - root - INFO - Oh I better log something
