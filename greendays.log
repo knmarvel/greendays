@@ -31,3 +31,5 @@
 2021-09-25 14:51:22,333 - root - INFO - Starting up
 2021-09-25 14:51:22,334 - root - INFO - Begin long running program
 2021-09-25 14:51:25,337 - root - INFO - Oh I better log something
+2021-09-25 14:51:26,389 - root - INFO - Begin long running program
+2021-09-25 14:51:29,393 - root - INFO - Oh I better log something
